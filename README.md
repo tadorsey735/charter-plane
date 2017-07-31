@@ -11,7 +11,7 @@ Inputs should be written into the inputs.txt file in the root folder with each r
  [latitude] [longitude] [altitude] [total time elapsed]
 ```
 
-Here's an example of defining of 3 route points for input:
+An example for inputting 3 route points in inputs.txt:
 ```
  123.123 234.230 0.000 0.000
  336.231 123.123 231234.234 345.234
